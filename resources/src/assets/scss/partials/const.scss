@@ -1,0 +1,220 @@
+@font-face {
+    font-family: 'a_avantebsregular';
+    src: url('../../../assets/fonts/avante/a_avantebs-webfont.eot');
+    src: url('../../../assets/fonts/avante/a_avantebs-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../../../assets/fonts/avante/a_avantebs-webfont.woff2') format('woff2'),
+    url('../../../assets/fonts/avante/a_avantebs-webfont.woff') format('woff'),
+    url('../../../assets/fonts/avante/a_avantebs-webfont.ttf') format('truetype'),
+    url('../../../assets/fonts/avante/a_avantebs-webfont.svg#a_avantebsregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'a_avantebsextrabold';
+    src: url('../../../assets/fonts/avante/a_avantebs_extrabold-webfont.eot');
+    src: url('../../../assets/fonts/avante/a_avantebs_extrabold-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../../../assets/fonts/avante/a_avantebs_extrabold-webfont.woff2') format('woff2'),
+    url('../../../assets/fonts/avante/a_avantebs_extrabold-webfont.woff') format('woff'),
+    url('../../../assets/fonts/avante/a_avantebs_extrabold-webfont.ttf') format('truetype'),
+    url('../../../assets/fonts/avante/a_avantebs_extrabold-webfont.svg#a_avantebsextrabold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'a_avanteltlight';
+    src: url('../../../assets/fonts/avante/a_avantelt_lt-webfont.eot');
+    src: url('../../../assets/fonts/avante/a_avantelt_lt-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../../../assets/fonts/avante/a_avantelt_lt-webfont.woff2') format('woff2'),
+    url('../../../assets/fonts/avante/a_avantelt_lt-webfont.woff') format('woff'),
+    url('../../../assets/fonts/avante/a_avantelt_lt-webfont.ttf') format('truetype'),
+    url('../../../assets/fonts/avante/a_avantelt_lt-webfont.svg#a_avanteltlight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ralewayblack';
+    src: url('../../../assets/fonts/raleway/raleway-black-webfont.eot');
+    src: url('../../../assets/fonts/raleway/raleway-black-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../../../assets/fonts/raleway/raleway-black-webfont.woff2') format('woff2'),
+    url('../../../assets/fonts/raleway/raleway-black-webfont.woff') format('woff'),
+    url('../../../assets/fonts/raleway/raleway-black-webfont.ttf') format('truetype'),
+    url('../../../assets/fonts/raleway/raleway-black-webfont.svg#ralewayblack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'ralewaybold';
+    src: url('../../../assets/fonts/raleway/raleway-bold-webfont.eot');
+    src: url('../../../assets/fonts/raleway/raleway-bold-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../../../assets/fonts/raleway/raleway-bold-webfont.woff2') format('woff2'),
+    url('../../../assets/fonts/raleway/raleway-bold-webfont.woff') format('woff'),
+    url('../../../assets/fonts/raleway/raleway-bold-webfont.ttf') format('truetype'),
+    url('../../../assets/fonts/raleway/raleway-bold-webfont.svg#ralewaybold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'ralewaylight';
+    src: url('../../../assets/fonts/raleway/raleway-light-webfont.eot');
+    src: url('../../../assets/fonts/raleway/raleway-light-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../../../assets/fonts/raleway/raleway-light-webfont.woff2') format('woff2'),
+    url('../../../assets/fonts/raleway/raleway-light-webfont.woff') format('woff'),
+    url('../../../assets/fonts/raleway/raleway-light-webfont.ttf') format('truetype'),
+    url('../../../assets/fonts/raleway/raleway-light-webfont.svg#ralewaylight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'ralewaymedium';
+    src: url('../../../assets/fonts/raleway/raleway-medium-webfont.eot');
+    src: url('../../../assets/fonts/raleway/raleway-medium-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../../../assets/fonts/raleway/raleway-medium-webfont.woff2') format('woff2'),
+    url('../../../assets/fonts/raleway/raleway-medium-webfont.woff') format('woff'),
+    url('../../../assets/fonts/raleway/raleway-medium-webfont.ttf') format('truetype'),
+    url('../../../assets/fonts/raleway/raleway-medium-webfont.svg#ralewaymedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'comfortaabold';
+    src: url('../../../assets/fonts/comfortaa/comfortaa-bold-webfont.eot');
+    src: url('../../../assets/fonts/comfortaa/comfortaa-bold-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../../../assets/fonts/comfortaa/comfortaa-bold-webfont.woff2') format('woff2'),
+    url('../../../assets/fonts/comfortaa/comfortaa-bold-webfont.woff') format('woff'),
+    url('../../../assets/fonts/comfortaa/comfortaa-bold-webfont.ttf') format('truetype'),
+    url('../../../assets/fonts/comfortaa/comfortaa-bold-webfont.svg#comfortaabold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'comfortaalight';
+    src: url('../../../assets/fonts/comfortaa/comfortaa-light-webfont.eot');
+    src: url('../../../assets/fonts/comfortaa/comfortaa-light-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../../../assets/fonts/comfortaa/comfortaa-light-webfont.woff2') format('woff2'),
+    url('../../../assets/fonts/comfortaa/comfortaa-light-webfont.woff') format('woff'),
+    url('../../../assets/fonts/comfortaa/comfortaa-light-webfont.ttf') format('truetype'),
+    url('../../../assets/fonts/comfortaa/comfortaa-light-webfont.svg#comfortaalight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'comfortaaregular';
+    src: url('../../../assets/fonts/comfortaa/comfortaa-regular-webfont.eot');
+    src: url('../../../assets/fonts/comfortaa/comfortaa-regular-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../../../assets/fonts/comfortaa/comfortaa-regular-webfont.woff2') format('woff2'),
+    url('../../../assets/fonts/comfortaa/comfortaa-regular-webfont.woff') format('woff'),
+    url('../../../assets/fonts/comfortaa/comfortaa-regular-webfont.ttf') format('truetype'),
+    url('../../../assets/fonts/comfortaa/comfortaa-regular-webfont.svg#comfortaaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+$base: rgba(52, 198, 205, 1);
+$pink: #F7A072;
+$blue: #0099ff;
+$cream: #EDDEA4;
+$blue-gray-opacity: #d9e5d6;
+
+$blue-sea: #17B7AA;
+$orange: #FF8110;
+$dark_gray: #545655;
+$gray: #4B4D4D;
+$light_gray: #999999;
+$light-light-gray: #f0f0f0;
+$white: #ffffff;
+$avante_bs_extrabold: "a_avantebsextrabold", sans-serif;
+$avante_bs_regular: "a_avantebsregular", sans-serif;
+$avante_lt_light: "a_avanteltlight", sans-serif;
+$raleway: "ralewaymedium", sans-serif;
+$ralewayblack: "ralewayblack", sans-serif;
+$ralewaybold: "ralewaybold", sans-serif;
+$comfortaabold: "comfortaabold", sans-serif;
+$comfortaalight: "comfortaalight", sans-serif;
+$comfortaaregular: "comfortaaregular", sans-serif;
+
+$margin: 16px; /* отступ */
+$padding: 10px;
+$fontSize: 10px; /* размер текста */
+$height: 50px;
+
+.green {
+    color: $base;
+}
+
+.blue {
+    color: $blue;
+}
+
+.orange {
+    color: $orange;
+}
+
+.dark_gray {
+    color: $dark_gray;
+}
+
+.light_gray {
+    color: $light_gray;
+}
+
+.white {
+    color: $white;
+}
+
+.pink {
+    color: $pink;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.avante_bs_extrabold {
+    font-family: $avante_bs_extrabold;
+}
+
+.avante_bs_regular {
+    font-family: $avante_bs_regular;
+}
+
+.avante_lt_light {
+    font-family: $avante_lt_light;
+}
+
+.raleway {
+    font-family: $raleway;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.lowercase {
+    text-transform: lowercase;
+}
+
+.center {
+    text-align: center;
+}
+
+.gray-line {
+    border: solid 5px #D9E5D6;
+    padding: 0;
+    margin: 0;
+}

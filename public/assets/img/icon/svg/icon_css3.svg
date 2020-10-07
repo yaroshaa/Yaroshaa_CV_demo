@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xml:space="preserve"
+   enable-background="new 0 0 566.93 566.93"
+   viewBox="0 0 566.93 566.93"
+   height="566.93px"
+   width="566.93px"
+   y="0px"
+   x="0px"
+   id="Слой_1"
+   version="1.1"><metadata
+   id="metadata51"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs49" />
+<g
+   id="g44">
+	<path
+   id="path2"
+   d="M77,78h411.442v411.441H77V78z"
+   fill="none" />
+	<path
+   id="path4"
+   d="M386.774,435.104l-104.056,28.019l-104.056-28.019L154.65,174.965h256.14L386.774,435.104z"
+   fill="#2862A8" />
+	<path
+   id="path6"
+   d="M282.719,196.036v244.739l0.235,0.063l84.208-22.675l19.437-222.128H282.719L282.719,196.036z"
+   fill="#439BD1" />
+	<path
+   id="path8"
+   d="M223.664,136.746v-15.483h22.59v-16.943h-39.533v47.887h39.533v-15.46H223.664z M286.892,121.262h15.794v-16.943h-39.537   v16.943c5.29,5.289,8.048,7.821,15.698,15.471c-4.472,0-15.698,0.017-15.698,0.015v15.458h39.537v-15.46L286.892,121.262   L286.892,121.262z M342.928,121.262h15.793v-16.943h-39.539v16.943c5.289,5.289,8.05,7.821,15.7,15.471   c-4.47,0-15.7,0.017-15.7,0.015v15.458h39.539v-15.46L342.928,121.262L342.928,121.262z" />
+	<path
+   id="path10"
+   d="M282.627,261.081l-74.477,31.017l2.47,30.711l72.007-30.788l76.596-32.749l3.176-31.415L282.627,261.081   L282.627,261.081z"
+   fill="#FFFFFF" />
+	
+		<linearGradient
+   gradientTransform="matrix(4.6418 0 0 4.6418 4840.6626 4930.4185)"
+   y2="-1005.9326"
+   x2="-989.9766"
+   y1="-992.6343"
+   x1="-989.9766"
+   gradientUnits="userSpaceOnUse"
+   id="SVGID_1_">
+		<stop
+   id="stop12"
+   style="stop-color:#D1D3D5;stop-opacity:0"
+   offset="0.387" />
+		<stop
+   id="stop14"
+   style="stop-color:#D1D3D5"
+   offset="1" />
+	</linearGradient>
+	<path
+   id="path17"
+   d="M208.149,292.098l2.47,30.711l72.007-30.788v-30.939L208.149,292.098z"
+   fill="url(#SVGID_1_)" />
+	
+		<linearGradient
+   gradientTransform="matrix(4.6418 0 0 4.6418 4840.6626 4930.4185)"
+   y2="-1013.0898"
+   x2="-973.3613"
+   y1="-999.2671"
+   x1="-973.3613"
+   gradientUnits="userSpaceOnUse"
+   id="SVGID_2_">
+		<stop
+   id="stop19"
+   style="stop-color:#D1D3D5;stop-opacity:0"
+   offset="0.387" />
+		<stop
+   id="stop21"
+   style="stop-color:#D1D3D5"
+   offset="1" />
+	</linearGradient>
+	<path
+   id="path24"
+   d="M362.398,227.859l-79.771,33.222v30.939l76.596-32.749L362.398,227.859z"
+   fill="url(#SVGID_2_)" />
+	
+		<linearGradient
+   gradientTransform="matrix(4.6418 0 0 4.6418 4840.6626 4930.4185)"
+   y2="-986.7036"
+   x2="-966.0356"
+   y1="-986.7036"
+   x1="-997.9746"
+   gradientUnits="userSpaceOnUse"
+   id="SVGID_3_">
+		<stop
+   id="stop26"
+   style="stop-color:#E8E7E5"
+   offset="0" />
+		<stop
+   id="stop28"
+   style="stop-color:#FFFFFF"
+   offset="1" />
+	</linearGradient>
+	<path
+   id="path31"
+   d="M208.265,292.098l2.47,30.711l110.484,0.352l-2.471,40.945l-36.356,10.234l-34.948-8.823   l-2.118-25.415h-32.473l4.236,49.063l65.657,19.413l65.3-19.061l8.473-97.42H208.265z"
+   fill="url(#SVGID_3_)" />
+	<path
+   id="path33"
+   d="M282.627,292.098H208.15l2.47,30.711l72.007,0.229V292.098L282.627,292.098z    M282.627,374.242l-0.354,0.099l-34.944-8.823l-2.117-25.416H212.74l4.235,49.064l65.652,19.413V374.242z"
+   enable-background="new    "
+   opacity="0.05" />
+	
+		<linearGradient
+   gradientTransform="matrix(4.6418 0 0 4.6418 4840.6626 4930.4185)"
+   y2="-1009.7061"
+   x2="-964.769"
+   y1="-1009.7061"
+   x1="-999.4443"
+   gradientUnits="userSpaceOnUse"
+   id="SVGID_4_">
+		<stop
+   id="stop35"
+   style="stop-color:#E8E7E5"
+   offset="0" />
+		<stop
+   id="stop37"
+   style="stop-color:#FFFFFF"
+   offset="1" />
+	</linearGradient>
+	<path
+   id="path40"
+   d="M201.443,227.859h160.956l-3.176,31.415H205.325L201.443,227.859L201.443,227.859z"
+   fill="url(#SVGID_4_)" />
+	<path
+   id="path42"
+   d="M282.627,227.859h-81.184l3.882,31.415h77.302V227.859L282.627,227.859z"
+   enable-background="new    "
+   opacity="0.05" />
+</g>
+</svg>

@@ -1,0 +1,32 @@
+{
+    "date of birth": "Дата Родження",
+    "philosophy and analytics": "Философия и аналитика",
+    "design and engineering": "Дизайн и инженеринг",
+    "active leisure": "Активный отдых",
+    "boxing": "Бокс",
+    "interesting solutions": "Интересные решения",
+    "education": "Образование",
+    "experience": "Опыт работы",
+    "reading": "Чтение",
+    "video lessons": "Видео уроки",
+    "dialogues": "Диалоги",
+    "self-education": "Самообразование",
+    "you can download the resume in pdf": "Вы можете скачать резюме в формате PDF",
+    "download cv": "Скачать CV",
+    "new works": "Новые",
+    "send me a message and I will contact you": "Отправте мне сообщение и я обязательно свяжусь с вами",
+    "name": "Имя",
+    "email": "E-mail",
+    "subject": "Тема",
+    "text message": "Текст сообщения",
+    "send": "Отправить",
+    "up": "Вверх",
+    "you can see the code here:": "Код можно посмотреть тут:",
+    "laravel blade front-end": "Собрано стандартним шаблонизатором Blade",
+    "vue front-end": "Front-end собран с помощью Vue",
+    "angular front-end": "Front-end собран с помощью Angular",
+    "react front-end": "Front-end собран с помощью React"
+
+
+
+}

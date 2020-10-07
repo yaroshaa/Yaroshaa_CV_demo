@@ -1,0 +1,84 @@
+.hobby-block-list {
+  text-align: center;
+
+  .hobby-list {
+    list-style-type: none;
+    display: inline-block;
+
+    .hobby-item {
+        display: inline-block;
+      .hobby-item-block {
+        width: 200px;
+        height: 200px;
+        display: -moz-flex;
+        display: -webkit-flex;
+        display: -ms-flex;
+        display: flex;
+
+        -moz-flex-direction: column;
+        -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+        flex-direction: column;
+
+        -moz-justify-content: center;
+        -webkit-justify-content: center;
+        -ms-justify-content: center;
+        justify-content: center;
+
+        align-items: center;
+
+        .hobby-icon {
+          display: inline-block;
+        }
+
+        .hobby-title {
+          text-align: center;
+          display: inline-block;
+          font-family: $comfortaaregular;
+          font-size: $fontSize*1.8;
+        }
+      }
+    }
+    .philosophy {
+      .hobby-icon {
+        display: inline-block;
+
+        svg {
+          fill:$pink;
+        }
+      }
+    }
+    .engineering {
+      .hobby-icon {
+        display: inline-block;
+        svg {
+          fill: $pink;
+        }
+      }
+    }
+    .hike {
+      .hobby-icon {
+        display: inline-block;
+        svg {
+          fill: $pink;
+        }
+      }
+    }
+    .boxing {
+      .hobby-icon {
+        display: inline-block;
+        svg {
+          fill: $pink;
+        }
+      }
+    }
+    .lifehack {
+      .hobby-icon {
+        display: inline-block;
+        svg {
+          fill: $pink;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+
+.tools{
+    background-color: transparent;
+    padding-bottom: 0;
+
+    h3 {
+      font-family: $avante_bs_regular;
+      font-size: $fontSize*2.5;
+      color: $dark_gray;
+      text-align: left;
+      padding-top: $padding*2;
+      padding-bottom: $padding*2;
+      padding-left: $padding*5;
+      margin: 0;
+
+    }
+
+
+    .tools-block{
+      background-color: $white;
+      padding-top: $padding*10;
+      padding-bottom: $padding*10;
+      text-align: center;
+
+      ul{
+        display: block;
+        padding-left: 0;
+      }
+
+      ul li{
+        display: inline-block;
+        text-align: center;
+        list-style-type: none;
+        padding-left: $padding;
+        padding-right: $padding;
+
+      }
+
+
+    }
+
+  }
+

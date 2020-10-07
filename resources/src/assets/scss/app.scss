@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@import "partials/const";
+@import "partials/base_styles";
+@import "partials/header";
+@import "partials/menu";
+
+@import "partials/aboutme";
+@import "partials/education";
+@import "partials/startinfo";
+@import "partials/languages";
+@import "partials/spoken_lang";
+@import "partials/tools";
+@import "partials/technologies";
+@import "partials/portfolio";
+@import "partials/projects";
+@import "partials/design";
+@import "partials/advertisingandpromotion";
+
+@import "partials/hobbies";
+@import "partials/socialnetworks";
+@import "partials/video";
+@import "partials/contacts";
+
+@import "partials/titles";
+
+@import "partials/footer";
+@import "partials/yaroshaa_cv_media";

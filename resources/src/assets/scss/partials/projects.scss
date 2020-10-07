@@ -1,0 +1,69 @@
+.projects {
+
+    .project-logo{
+        img{  }
+    }
+
+    .project-block{
+
+        .description-list{
+            ul{
+                padding-left: 0;
+                list-style-type: none;
+
+                li{
+                    padding:5px;
+
+                    display: -moz-flex;
+                    display: -webkit-flex;
+                    display: -ms-flex;
+                    display: flex;
+
+                    -moz-flex-direction: row;
+                    -webkit-flex-direction: row;
+                    -ms-flex-direction: row;
+                    flex-direction: row;
+
+                    -moz-justify-content: flex-start ;
+                    -webkit-justify-content: flex-start;
+                    -ms-justify-content: flex-start;
+                    justify-content: flex-start;
+
+                    align-items: center;
+
+                    span{
+                        color: $blue;
+                        width: 85%;
+                        font-size: 16px;
+                        line-height: 16px;
+                    }
+                    .circle{
+                        display: inline-block;
+                        width: 30px;
+                        height: 30px;
+                        border-radius: 50%;
+                        background-color: $blue;
+                        margin: 15px;
+                    }
+                }
+            }
+        }
+
+        .promo-image{
+            img{
+                border: 10px solid $base;
+            }
+
+        }
+
+        .description-text{
+            p{
+                font-size: 16px;
+                line-height: 17px;
+                text-align: justify;
+                padding:0 0 0 15px;
+                text-indent: 1.5em;
+            }
+        }
+    }
+}

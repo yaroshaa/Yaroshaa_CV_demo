@@ -1,0 +1,56 @@
+.icon-education-wrapper {
+
+    .large-icon-education-item {
+
+        display: inline-block;
+        text-align: center;
+        width: 40%;
+
+        span {
+            display: inline-block;
+        }
+    }
+
+    .icon-education-block {
+        width: 80%;
+    }
+
+    .icon-education-group {
+        .icon-education-item {
+            .icon-education-title {
+                font-family: $comfortaaregular;
+                text-transform: lowercase;
+                color: $blue-sea;
+            }
+
+            .icon-education-svg {
+                img {
+                    width: auto;
+                    height: auto;
+                }
+            }
+        }
+
+        .self-education {
+            font-family: $comfortaaregular;
+        }
+    }
+}
+
+.link-to-github{
+
+    a{
+        color: $base;
+        svg{
+            fill:$dark_gray;
+        }
+    }
+
+    a:hover{
+        color: $pink;
+        svg{
+            fill: $pink;
+        }
+    }
+
+}

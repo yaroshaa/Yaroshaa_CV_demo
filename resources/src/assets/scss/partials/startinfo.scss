@@ -1,0 +1,16 @@
+
+.start-info{
+    background-image: url("../../../assets/img/background.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: $height*12;
+
+  }
+  .start-info-block{
+    padding: $padding*2;
+    background-color: $white;
+    text-align: center;
+    height: $height*12;
+
+  }

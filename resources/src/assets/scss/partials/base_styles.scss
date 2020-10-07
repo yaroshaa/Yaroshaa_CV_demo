@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: $raleway !important;
+}
+
+
+h2 {
+    font-family: $avante_lt_light;
+    font-size: $fontSize*3;
+}
+
+section {
+    position: relative;
+}
+
+.hide {
+    display: none;
+}
+
+.display {
+    display: block;
+}
+
+#app{
+    display: block;
+    position: relative;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.block-list-link-frameworks{
+    top:50%;
+    left:5px;
+    margin-top: -100px;
+    background-color: rgba(255, 255, 255, 0.8);
+    a{
+        padding:2px;
+    }
+    a:hover{
+
+    }
+}
+
+@media screen and (max-width:767px){
+    .block-list-link-frameworks{
+
+        left:0;
+
+    }
+
+}
+
+

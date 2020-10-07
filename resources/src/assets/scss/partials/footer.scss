@@ -1,0 +1,29 @@
+
+footer {
+    height: $height*2;
+    background-color: $base;
+    padding-top: $padding*4;
+
+    .copyright_text{
+      font-size: $fontSize*1.7;
+      color:$dark_gray;
+    }
+
+
+    .go-top a{
+      font-size: $fontSize*1.7;
+      color:$dark_gray;
+    }
+
+    .go-top a:hover{
+
+      color:$dark_gray;
+      text-decoration: none;
+    }
+
+
+  }
+
+  .cat_name{
+    text-transform: capitalize;
+  }

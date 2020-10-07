@@ -1,0 +1,106 @@
+.social-block-list{
+    text-align: center;
+    .social-list{
+        list-style-type: none;
+        display: inline-block;
+        padding:0;
+        .social-item{
+            display: inline-block;
+            width: 100px;
+            height: 120px;
+            margin:10px;
+
+            .social-icon{
+                display: inline-block;
+            }
+            &.facebook:hover{
+                .social-icon{
+                    display: inline-block;
+                    svg{
+                        path#path22{
+                        animation: spin 3s infinite linear;
+
+                        }
+                    }
+
+                }
+            }
+            &.pinterest:hover{
+                .social-icon{
+                    display: inline-block;
+                    svg{
+                        path#path82{
+                        animation: spin 3s infinite linear;
+                        }
+                    }
+
+                }
+            }
+            &.twitter:hover{
+                .social-icon{
+                    display: inline-block;
+                    svg{
+                        path#tw{
+                        animation: spin 3s infinite linear;
+                        }
+                    }
+
+                }
+            }
+            &.instagramm:hover{
+                .social-icon{
+                    display: inline-block;
+                    svg{
+                        path#path74{
+                        animation: spin 3s infinite linear;
+
+                        }
+                    }
+
+                }
+            }
+            &.linkedin:hover{
+                .social-icon{
+                    display: inline-block;
+                    svg{
+                        path#path100{
+                        animation: spin 3s infinite linear;
+
+                        }
+                    }
+
+                }
+            }
+            &.corflot:hover{
+                .social-icon{
+                    display: inline-block;
+                    svg{
+                        path#cor100{
+                        animation: spin 3s infinite linear;
+
+                        }
+                    }
+
+                }
+            }
+
+        }
+    }
+}
+@keyframes spin {
+
+    from {
+        transform-origin: 50% 50% 0 ;
+        transform: rotate(0deg);
+    }
+    to {
+        transform-origin: 50% 50% 0 ;
+        transform: rotate(360deg);
+    }
+
+}
+
+// 100% {
+//     transform: rotateZ(360deg);
+//      //rotate(360deg)
+//   }

@@ -1,0 +1,178 @@
+.about-me {
+    height: auto;
+
+    h1 {
+        height: $height*2.5;
+        background-color: $base;
+        padding-top: $padding*4;
+        margin: 0;
+        font-size: $fontSize*4;
+    }
+
+    .about-me-block {
+        padding: $padding*2;
+    }
+
+    h2.date_of_birthday {
+        font-size: 25px;
+        padding: 40px 0 40px 20px;
+        font-family: "a_avantebsregular", sans-serif;
+
+        span {
+            font-family: "a_avantebsextrabold", sans-serif;
+            font-size: 28px;
+        }
+    }
+}
+
+#resume {
+    width: 100%;
+    float: left;
+}
+
+.resume-education {
+    margin-bottom: 30px;
+}
+
+.rounded-icon > i {
+    width: 70px;
+    text-align: center;
+    margin-left: -10px;
+    padding: 20px 0;
+    font-size: 30px;
+    color: #fff;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    background: $base;
+}
+
+.rounded-icon span.rezume-info-title {
+    font-size: 25px;
+    font-family: $raleway;
+    padding-left: 10px;
+    color: #333;
+}
+
+.resume-out {
+    padding-left: 25px;
+}
+
+.resume-info {
+    border-left: 2px solid #E5E5E5;
+    padding: 0 0 40px 30px;
+    &:last-child {
+        border-left: 0;
+    }
+    &:first-child {
+        padding-top: 50px;
+    }
+    h2 {
+        margin-top: 0;
+    }
+}
+
+.resume-out.brdr-l {
+    border-left: 2px solid #E5E5E5;
+}
+
+.info-title {
+    font-family: "ralewaymedium", sans-serif;
+}
+
+.info-title::after {
+    content: '';
+    width: 10px;
+    height: 10px;
+    float: left;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    border-radius: 50px;
+    margin: 0 9px 0 -36px;
+    background: $base;
+}
+
+.info-date {
+    padding: 6px 0;
+    display: block;
+}
+
+.resume-info {
+    p {
+        color: #A8A8A8;
+        line-height: 20px;
+    }
+}
+
+.кey-information {
+
+    text-align: center;
+
+    ul {
+        display: inline-block;
+    }
+
+    ul li {
+        font-size: $fontSize*6;
+        font-family: $avante_bs_regular;
+        list-style-type: none;
+        float: left;
+        color: $cream;
+        text-transform: uppercase;
+    }
+
+    ul li:before {
+        color: $dark_gray; /* Цвет маркера */
+        content: "•"; /* Сам маркер */
+        padding-right: 10px; /* Расстояние от маркера до текста */
+        font-size: $fontSize*6;
+    }
+
+    ul li:nth-child(1):before {
+        content: none;
+    }
+}
+
+.download_block {
+    text-align: center;
+    margin-bottom: 50px;
+
+    p {
+        text-align: center;
+    }
+
+    .button {
+        text-align: center;
+        display: inline-block;
+        border-radius: 5px;
+        background-color: $pink;
+        transition: 0.3s; /*плавная смена фона*/
+        cursor: pointer;
+    }
+
+    .button:hover {
+        background-color: $blue 60%;
+    }
+
+    .button a:hover {
+        color: $dark_gray;
+    }
+
+    .button a {
+        color: $white;
+        font-size: 21px;
+        font-family: $avante_bs_regular;
+        font-weight: normal;
+        display: inline-block;
+        padding: 16px;
+        width: 220px;
+        height: 60px;
+        border-radius: 5px;
+        text-decoration: none;
+        outline: none;
+        text-transform: uppercase;
+        transition: 0.3s; /*плавная смена фона*/
+    }
+}
