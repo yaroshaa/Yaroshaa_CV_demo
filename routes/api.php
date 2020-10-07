@@ -16,3 +16,9 @@ use Illuminate\Http\Request;
 Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();
 });
+Route::group(['namespace' => 'Api'], function() {
+//Route::apiResource('/contact', 'Api/ContactController');
+    Route::get('/getHomeData/{key?}', 'HomeController@getHomeData')->name('getHomeData');
+    Route::get('/getDefaultLanguage', 'HomeController@getDefaultLanguage')->name('getDefaultLanguage');
+});
+
