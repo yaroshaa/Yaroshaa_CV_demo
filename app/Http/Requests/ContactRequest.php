@@ -23,33 +23,6 @@ class ContactRequest extends FormRequest
      */
     public function rules()
     {
-//
-//        $rules = [
-//            'name' => 'required|string|unique:games,title',
-//            'email' => '',
-//            'subject' => 'required|min:10|max:100',
-//            'text' => 'required|min:50|max:500',
-//        ];
-//
-//        switch ($this->getMethod())
-//        {
-//            case 'POST':
-//                return $rules;
-//            case 'PUT':
-//                return [
-//                        'id' => 'required|integer|exists:comtacts,id', //должен существовать. Можно вот так: unique:games,id,' . $this->route('game'),
-//                        'email' => [
-//                            'required',
-//                            Rule::unique('contact')->ignore($this->title, 'email') //должен быть уникальным, за исключением себя же
-//                        ]
-//                    ] + $rules; // и берем все остальные правила
-//            // case 'PATCH':
-//            case 'DELETE':
-//                return [
-//                    'id' => 'required|integer|exists:contact,id'
-//                ];
-//        }
-
 
     }
 
@@ -66,15 +39,6 @@ class ContactRequest extends FormRequest
 
     public function all($keys = null)
     {
-        // return $this->all();
-        $data = parent::all($keys);
-        switch ($this->getMethod())
-        {
-            // case 'PUT':
-            // case 'PATCH':
-            case 'DELETE':
-                $data['date'] = $this->route('day');
-        }
-        return $data;
+
     }
 }
